@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186827998299",
+    "project_id": "maya-firebase",
+    "storage_bucket": "maya-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186827998299:android:0d44e370374559f8ba2b7e",
+        "android_client_info": {
+          "package_name": "com.example.state_change_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAksSlbGZYsu6mqkLTI5_Kz52FNEmcQWOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
